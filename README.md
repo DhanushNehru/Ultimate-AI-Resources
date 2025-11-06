@@ -42,6 +42,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
   - [Audio](#audio)
   - [Tabular & Time Series](#tabular--time-series)
 - [AI Tools & Apps](#ai-tools--apps)
+  - [AI Coding Assistants](#ai-coding-assistants)
   - [No-Code AI](#no-code-ai)
   - [AI APIs](#ai-apis)
   - [Design & Content](#design--content)
@@ -145,6 +146,17 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 ---
 
 ## AI Tools & Apps
+
+### AI Coding Assistants
+- [Cursor](https://cursor.sh/) – AI-first code editor with Claude integration
+- [GitHub Copilot](https://github.com/features/copilot) – AI pair programmer by GitHub & OpenAI
+- [Replit AI](https://replit.com/ai) – Code, deploy, and collaborate with AI
+- [v0 by Vercel](https://v0.dev/) – Generate UI components from text prompts
+- [bolt.new](https://bolt.new/) – Full-stack web app development with AI
+- [Codeium](https://codeium.com/) – Free AI code completion and chat
+- [Tabnine](https://www.tabnine.com/) – AI assistant for code completion
+- [Windsurf](https://codeium.com/windsurf) – Agentic IDE by Codeium
+- [Claude Code](https://docs.claude.com/en/docs/claude-code) – Command-line AI coding agent
 
 ### No-Code AI
 - [Bubble + AI](https://bubble.io/ai)
