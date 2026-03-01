@@ -17,10 +17,9 @@ jobs:
         with:
           script: |
             const issue_number = context.payload.issue.number;
-            const message = `Thank you for raising this issue! Our team will review it soon.
+            const message = `const message = `Thank you for raising this issue! Our team will review it soon. 
             
-            For more queries or discussions or approval of requests, please join the Discord server for further discussion: [Discord Link](22
-            )`;
+            For more queries or discussions or approval of requests, please join the Discord server for further discussion: [Discord Link](https://discord.com/invite/Yn9g6KuWyA)`;
             
             await github.rest.issues.createComment({
               owner: context.repo.owner,
