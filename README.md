@@ -45,6 +45,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
   - [AI Coding Assistants](#ai-coding-assistants)
   - [No-Code AI](#no-code-ai)
   - [AI APIs](#ai-apis)
+  - [Sales & Outreach](#sales--outreach)
   - [Design & Content](#design--content)
 - [Ethics, Safety & Governance](#ethics-safety--governance)
 - [Communities & Events](#communities--events)
@@ -175,6 +176,9 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [OpenAI API](https://platform.openai.com/)
 - [Anthropic Claude](https://www.anthropic.com/api)
 - [Cohere](https://cohere.com/)
+
+### Sales & Outreach
+- [ZeroGTM](https://www.gtm-zero.com/) – Open-source AI SDR agent for automated outbound sales prospecting and outreach
 
 ### Design & Content
 - [Midjourney](https://www.midjourney.com/)
