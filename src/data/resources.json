@@ -1,0 +1,693 @@
+{
+  "categories": [
+    {
+      "name": "Learning & Education",
+      "subcategories": [
+        {
+          "name": "Free Courses",
+          "items": [
+            {
+              "name": "CS229: Machine Learning (Stanford)",
+              "link": "http://cs229.stanford.edu/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Deep Learning Specialization (Coursera)",
+              "link": "https://www.coursera.org/specializations/deep-learning",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Fast.ai Practical Deep Learning",
+              "link": "https://course.fast.ai/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Hugging Face NLP Course",
+              "link": "https://huggingface.co/course",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Books & Papers",
+          "items": [
+            {
+              "name": "The Hundred-Page Machine Learning Book",
+              "link": "http://themlbook.com/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Attention Is All You Need (Transformer Paper)",
+              "link": "https://arxiv.org/abs/1706.03762",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "GPT-3 Paper",
+              "link": "https://arxiv.org/abs/2005.14165",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "YouTube & Blogs",
+          "items": [
+            {
+              "name": "3Blue1Brown Neural Networks",
+              "link": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Andrej Karpathy",
+              "link": "https://www.youtube.com/@AndrejKarpathy",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Lil'Log (Lilian Weng)",
+              "link": "https://lilianweng.github.io/",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "subcategories": [
+        {
+          "name": "Deep Learning",
+          "items": [
+            {
+              "name": "PyTorch",
+              "link": "https://pytorch.org/",
+              "description": "Dynamic & research-friendly",
+              "difficulty": "Intermediate"
+            },
+            {
+              "name": "TensorFlow",
+              "link": "https://www.tensorflow.org/",
+              "description": "Production-scale",
+              "difficulty": "Intermediate"
+            },
+            {
+              "name": "JAX",
+              "link": "https://jax.readthedocs.io/",
+              "description": "High-performance ML",
+              "difficulty": "Intermediate"
+            }
+          ]
+        },
+        {
+          "name": "LLMs & Prompting",
+          "items": [
+            {
+              "name": "LangChain",
+              "link": "https://github.com/langchain-ai/langchain",
+              "description": "Build LLM apps",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "LlamaIndex",
+              "link": "https://www.llamaindex.ai/",
+              "description": "RAG & data connectors",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Hugging Face Transformers",
+              "link": "https://huggingface.co/docs/transformers",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Computer Vision",
+          "items": [
+            {
+              "name": "OpenCV",
+              "link": "https://opencv.org/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "YOLOv8 (Ultralytics)",
+              "link": "https://github.com/ultralytics/ultralytics",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Detectron2",
+              "link": "https://github.com/facebookresearch/detectron2",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Audio & Speech",
+          "items": [
+            {
+              "name": "Whisper (OpenAI)",
+              "link": "https://github.com/openai/whisper",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Coqui TTS",
+              "link": "https://github.com/coqui-ai/TTS",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Torchaudio",
+              "link": "https://pytorch.org/audio",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Reinforcement Learning",
+          "items": [
+            {
+              "name": "Stable Baselines3",
+              "link": "https://github.com/DLR-RM/stable-baselines3",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Ray RLlib",
+              "link": "https://docs.ray.io/en/latest/rllib/index.html",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MLOps & Deployment",
+      "subcategories": [
+        {
+          "name": "Experiment Tracking",
+          "items": [
+            {
+              "name": "Weights & Biases",
+              "link": "https://wandb.ai/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "MLflow",
+              "link": "https://mlflow.org/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Comet ML",
+              "link": "https://www.comet.com/",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Model Serving",
+          "items": [
+            {
+              "name": "BentoML",
+              "link": "https://www.bentoml.com/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Triton Inference Server",
+              "link": "https://github.com/triton-inference-server/server",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "vLLM",
+              "link": "https://github.com/vllm-project/vllm",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Data Pipelines",
+          "items": [
+            {
+              "name": "Apache Airflow",
+              "link": "https://airflow.apache.org/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Dagster",
+              "link": "https://dagster.io/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Prefect",
+              "link": "https://www.prefect.io/",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Monitoring",
+          "items": [
+            {
+              "name": "Evidently AI",
+              "link": "https://www.evidentlyai.com/",
+              "description": "",
+              "difficulty": "Advanced"
+            },
+            {
+              "name": "Arize AI",
+              "link": "https://arize.com/",
+              "description": "",
+              "difficulty": "Advanced"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Datasets",
+      "subcategories": [
+        {
+          "name": "Vision",
+          "items": [
+            {
+              "name": "COCO",
+              "link": "https://cocodataset.org/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "ImageNet",
+              "link": "https://www.image-net.org/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Open Images",
+              "link": "https://storage.googleapis.com/openimages/web/index.html",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "NLP",
+          "items": [
+            {
+              "name": "SQuAD",
+              "link": "https://rajpurkar.github.io/SQuAD-explorer/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "GLUE Benchmark",
+              "link": "https://gluebenchmark.com/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "The Pile",
+              "link": "https://pile.eleuther.ai/",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Audio",
+          "items": [
+            {
+              "name": "LibriSpeech",
+              "link": "https://www.openslr.org/12/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Common Voice",
+              "link": "https://commonvoice.mozilla.org/",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Tabular & Time Series",
+          "items": [
+            {
+              "name": "UCI ML Repository",
+              "link": "https://archive.ics.uci.edu/ml/index.php",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Kaggle Datasets",
+              "link": "https://www.kaggle.com/datasets",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI Tools & Apps",
+      "subcategories": [
+        {
+          "name": "AI Coding Assistants",
+          "items": [
+            {
+              "name": "Cursor",
+              "link": "https://cursor.sh/",
+              "description": "AI-first code editor with Claude integration",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "GitHub Copilot",
+              "link": "https://github.com/features/copilot",
+              "description": "AI pair programmer by GitHub & OpenAI",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Replit AI",
+              "link": "https://replit.com/ai",
+              "description": "Code, deploy, and collaborate with AI",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "v0 by Vercel",
+              "link": "https://v0.dev/",
+              "description": "Generate UI components from text prompts",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "bolt.new",
+              "link": "https://bolt.new/",
+              "description": "Full-stack web app development with AI",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Codeium",
+              "link": "https://codeium.com/",
+              "description": "Free AI code completion and chat",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Tabnine",
+              "link": "https://www.tabnine.com/",
+              "description": "AI assistant for code completion",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Windsurf",
+              "link": "https://codeium.com/windsurf",
+              "description": "Agentic IDE by Codeium",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Claude Code",
+              "link": "https://docs.claude.com/en/docs/claude-code",
+              "description": "Command-line AI coding agent",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "No-Code AI",
+          "items": [
+            {
+              "name": "Bubble + AI",
+              "link": "https://bubble.io/ai",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Make.com AI Agents",
+              "link": "https://www.make.com/en/ai",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Dify.ai",
+              "link": "https://dify.ai/",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "AI APIs",
+          "items": [
+            {
+              "name": "OpenAI API",
+              "link": "https://platform.openai.com/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Anthropic Claude",
+              "link": "https://www.anthropic.com/api",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Cohere",
+              "link": "https://cohere.com/",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Sales & Outreach",
+          "items": [
+            {
+              "name": "ZeroGTM",
+              "link": "https://www.gtm-zero.com/",
+              "description": "Open-source AI SDR agent for automated outbound sales prospecting and outreach",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
+          "name": "Design & Content",
+          "items": [
+            {
+              "name": "Midjourney",
+              "link": "https://www.midjourney.com/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Runway ML",
+              "link": "https://runwayml.com/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "ElevenLabs",
+              "link": "https://elevenlabs.io/",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\ud83d\udca1 Real-World Use Cases & Examples",
+      "subcategories": [
+        {
+          "name": "\ud83c\udfe2 Enterprise Applications",
+          "items": [
+            {
+              "name": "Example Repo",
+              "link": "https://github.com/langchain-ai/langchain/tree/master/templates/rag-conversation",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Tutorial",
+              "link": "https://www.anthropic.com/news/claude-code-review",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "Demo",
+              "link": "https://azure.microsoft.com/en-us/products/ai-services/ai-document-intelligence",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "\ud83c\udfa4 AI Interview Preparation",
+      "subcategories": [
+        {
+          "name": "Resources",
+          "items": [
+            {
+              "name": "ML Interview Guide",
+              "link": "https://github.com/khangich/machine-learning-interview",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "LeetCode ML Problems",
+              "link": "https://leetcode.com/problemset/machine-learning/",
+              "description": "",
+              "difficulty": "Beginner"
+            },
+            {
+              "name": "System Design for ML",
+              "link": "https://github.com/chiphuyen/machine-learning-systems-design",
+              "description": "",
+              "difficulty": "Beginner"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "trending": [
+    {
+      "name": "OpenAI o1",
+      "link": "https://openai.com/o1/",
+      "description": "Next-gen reasoning model (Dec 2024)",
+      "tag": "\ud83d\ude80 Breakthrough Tools"
+    },
+    {
+      "name": "Google Gemini 2.0",
+      "link": "https://deepmind.google/technologies/gemini/",
+      "description": "Multimodal powerhouse",
+      "tag": "\ud83d\ude80 Breakthrough Tools"
+    },
+    {
+      "name": "Anthropic Claude 3.5 Sonnet",
+      "link": "https://www.anthropic.com/claude",
+      "description": "Best coding assistant (200K context)",
+      "tag": "\ud83d\ude80 Breakthrough Tools"
+    },
+    {
+      "name": "Perplexity Pro",
+      "link": "https://www.perplexity.ai/",
+      "description": "AI-powered search engine",
+      "tag": "\ud83d\ude80 Breakthrough Tools"
+    },
+    {
+      "name": "NotebookLM",
+      "link": "https://notebooklm.google/",
+      "description": "Google's AI note-taking with audio insights",
+      "tag": "\ud83d\ude80 Breakthrough Tools"
+    },
+    {
+      "name": "Sora by OpenAI",
+      "link": "https://openai.com/sora",
+      "description": "Text-to-video generation (limited access)",
+      "tag": "\ud83d\ude80 Breakthrough Tools"
+    },
+    {
+      "name": "Pika Labs",
+      "link": "https://pika.art/",
+      "description": "Video generation from text/images",
+      "tag": "\ud83d\ude80 Breakthrough Tools"
+    },
+    {
+      "name": "HeyGen",
+      "link": "https://www.heygen.com/",
+      "description": "AI avatar & video translation",
+      "tag": "\ud83d\ude80 Breakthrough Tools"
+    },
+    {
+      "name": "Zed AI",
+      "link": "https://zed.dev/",
+      "description": "Lightning-fast multiplayer code editor with AI",
+      "tag": "\ud83d\udcbb Developer Tools (2025)"
+    },
+    {
+      "name": "Pieces for Developers",
+      "link": "https://pieces.app/",
+      "description": "AI-powered code snippets manager",
+      "tag": "\ud83d\udcbb Developer Tools (2025)"
+    },
+    {
+      "name": "Phind",
+      "link": "https://www.phind.com/",
+      "description": "AI search engine for developers",
+      "tag": "\ud83d\udcbb Developer Tools (2025)"
+    },
+    {
+      "name": "Continue.dev",
+      "link": "https://continue.dev/",
+      "description": "Open-source Copilot alternative",
+      "tag": "\ud83d\udcbb Developer Tools (2025)"
+    },
+    {
+      "name": "Cody by Sourcegraph",
+      "link": "https://sourcegraph.com/cody",
+      "description": "AI coding assistant with codebase context",
+      "tag": "\ud83d\udcbb Developer Tools (2025)"
+    },
+    {
+      "name": "Magnific AI",
+      "link": "https://magnific.ai/",
+      "description": "AI image upscaler (insane quality)",
+      "tag": "\ud83c\udfa8 Creative & Design"
+    },
+    {
+      "name": "Leonardo.AI",
+      "link": "https://leonardo.ai/",
+      "description": "Game asset generation",
+      "tag": "\ud83c\udfa8 Creative & Design"
+    },
+    {
+      "name": "Ideogram",
+      "link": "https://ideogram.ai/",
+      "description": "Text rendering in images (finally!)",
+      "tag": "\ud83c\udfa8 Creative & Design"
+    },
+    {
+      "name": "CapCut AI",
+      "link": "https://www.capcut.com/",
+      "description": "AI video editing for creators",
+      "tag": "\ud83c\udfa8 Creative & Design"
+    }
+  ],
+  "roadmap": "graph LR\n    A[\ud83c\udf31 Beginner] --> B[\ud83d\udcca Python + Math]\n    B --> C[\ud83e\udd16 ML Basics]\n    C --> D[\ud83e\udde0 Deep Learning]\n    D --> E[\ud83d\udd2e LLMs & Transformers]\n    E --> F[\ud83d\ude80 Production & MLOps]\n    F --> G[\u2b50 AI Expert]",
+  "quick_start": [
+    {
+      "title": "Option 1: ChatBot with LangChain + OpenAI",
+      "code": "# pip install langchain openai\nfrom langchain.chat_models import ChatOpenAI\nfrom langchain.schema import HumanMessage\n\nllm = ChatOpenAI(model=\"gpt-4\")\nresponse = llm([HumanMessage(content=\"Explain AI in 3 sentences\")])\nprint(response.content)"
+    },
+    {
+      "title": "Option 2: Image Classification with Hugging Face",
+      "code": "# pip install transformers pillow\nfrom transformers import pipeline\n\nclassifier = pipeline(\"image-classification\")\nresult = classifier(\"path/to/image.jpg\")\nprint(result)"
+    },
+    {
+      "title": "Option 3: RAG System in 10 Lines",
+      "code": "# pip install llama-index\nfrom llama_index import VectorStoreIndex, SimpleDirectoryReader\n\ndocuments = SimpleDirectoryReader('data').load_data()\nindex = VectorStoreIndex.from_documents(documents)\nquery_engine = index.as_query_engine()\nresponse = query_engine.query(\"Your question here\")\nprint(response)"
+    }
+  ]
+}
