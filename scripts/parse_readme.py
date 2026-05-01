@@ -107,7 +107,7 @@ def parse_readme(file_path):
 
 if __name__ == "__main__":
     readme_path = os.path.join(os.path.dirname(__file__), '../README.md')
-    output_path = os.path.join(os.path.dirname(__file__), '../web/src/data/resources.json')
+    output_path = os.path.join(os.path.dirname(__file__), '../src/data/resources.json')
     
     # Ensure directory exists
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
