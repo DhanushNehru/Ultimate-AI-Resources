@@ -1,4 +1,5 @@
 # Ultimate-AI-Resources
+[![Website](https://img.shields.io/badge/View-Website-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://DhanushNehru.github.io/Ultimate-AI-Resources/)
 A curated list of Artificial Intelligence Tools, Resources, References etc. for all of your needs
 
 > **The ultimate curated collection of AI tools, frameworks, datasets, papers, courses and communities** — everything you need to build, learn, and scale AI in one place.
@@ -482,3 +483,9 @@ Found a missing gem? Want to add a new category?
 2. Add your resource in the correct section
 3. Follow format: `- [Name](link) – Short description.`
 4. Open a PR!
+
+> [!NOTE]
+> This repository is automatically synced with our [Interactive Web Portal](https://DhanushNehru.github.io/Ultimate-AI-Resources/). Any changes merged into the `main` branch will reflect on the website within minutes!
+
+---
+Developed with ❤️ by [Dhanush Nehru](https://github.com/DhanushNehru)
