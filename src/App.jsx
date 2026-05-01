@@ -40,12 +40,12 @@ const ResourceCard = ({ item }) => (
       <span className={`difficulty-badge ${item.difficulty === 'Beginner' ? 'difficulty-beginner' : item.difficulty === 'Intermediate' ? 'difficulty-intermediate' : 'difficulty-advanced'}`}>
         {item.difficulty}
       </span>
-      <a href={item.link} target="_blank" rel="noopener noreferrer" className="text-text-muted hover:text-primary transition-colors">
+      <a href={item.link} target="_blank" rel="noopener noreferrer" className="text-muted hover:text-primary transition-colors">
         <ExternalLink className="w-4 h-4" />
       </a>
     </div>
     <h4 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">{item.name}</h4>
-    <p className="text-text-muted text-sm flex-grow">{item.description || "Explore this powerful AI resource."}</p>
+    <p className="text-muted text-sm flex-grow">{item.description || "Explore this powerful AI resource."}</p>
     <div className="mt-4 pt-4 border-t border-white/5">
       <a 
         href={item.link} 
@@ -107,7 +107,7 @@ export default function App() {
             <span className="font-extrabold text-xl tracking-tight hidden md:block">Ultimate AI</span>
           </div>
           <div className="relative max-w-md w-full mx-4">
-            <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-text-muted w-4 h-4" />
+            <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-muted w-4 h-4" />
             <input 
               type="text" 
               placeholder="Search resources..." 
@@ -117,7 +117,7 @@ export default function App() {
             />
           </div>
           <div className="flex items-center gap-4">
-            <a href="https://github.com/DhanushNehru/Ultimate-AI-Resources" target="_blank" rel="noopener noreferrer" className="text-text-muted hover:text-white transition-colors">
+            <a href="https://github.com/DhanushNehru/Ultimate-AI-Resources" target="_blank" rel="noopener noreferrer" className="text-muted hover:text-white transition-colors">
               <Github className="w-6 h-6" />
             </a>
           </div>
@@ -137,7 +137,7 @@ export default function App() {
           <h1 className="text-5xl md:text-7xl font-black mb-6 leading-tight">
             The Hub of <span className="gradient-text">Artificial Intelligence</span>
           </h1>
-          <p className="text-text-muted text-lg md:text-xl max-w-2xl mx-auto mb-10">
+          <p className="text-muted text-lg md:text-xl max-w-2xl mx-auto mb-10">
             A meticulously curated collection of AI tools, frameworks, datasets, and roadmaps to take you from beginner to expert.
           </p>
         </motion.div>
@@ -152,7 +152,7 @@ export default function App() {
             className={`px-5 py-2 rounded-full text-sm font-semibold transition-all ${
               activeCategory === cat 
                 ? 'bg-primary text-white shadow-lg shadow-primary/25' 
-                : 'bg-white/5 text-text-muted hover:bg-white/10'
+                : 'bg-white/5 text-muted hover:bg-white/10'
             }`}
           >
             {cat}
@@ -176,7 +176,7 @@ export default function App() {
               <div className="space-y-12">
                 {category.subcategories.map((sub) => (
                   <div key={sub.name}>
-                    <h3 className="text-xl font-bold mb-6 text-text-muted flex items-center gap-2">
+                    <h3 className="text-xl font-bold mb-6 text-muted flex items-center gap-2">
                       <span className="w-1 h-1 rounded-full bg-primary" />
                       {sub.name}
                     </h3>
@@ -194,8 +194,8 @@ export default function App() {
 
         {filteredData.length === 0 && (
           <div className="text-center py-20">
-            <Search className="w-12 h-12 text-text-muted mx-auto mb-4 opacity-20" />
-            <h3 className="text-xl font-bold text-text-muted">No resources found matching your search.</h3>
+            <Search className="w-12 h-12 text-muted mx-auto mb-4 opacity-20" />
+            <h3 className="text-xl font-bold text-muted">No resources found matching your search.</h3>
           </div>
         )}
       </main>
@@ -222,7 +222,7 @@ export default function App() {
                 >
                   <span className="text-[10px] font-bold text-primary uppercase tracking-tighter mb-1 block">{tool.tag}</span>
                   <h4 className="font-bold text-sm mb-1">{tool.name}</h4>
-                  <p className="text-text-muted text-xs line-clamp-1">{tool.description}</p>
+                  <p className="text-muted text-xs line-clamp-1">{tool.description}</p>
                 </a>
               ))}
             </div>
@@ -238,7 +238,7 @@ export default function App() {
             <div key={guide.title} className="glass rounded-2xl overflow-hidden border border-white/10">
               <div className="bg-white/5 px-6 py-4 flex justify-between items-center border-b border-white/10">
                 <span className="font-bold text-sm">{guide.title}</span>
-                <Code className="w-4 h-4 text-text-muted" />
+                <Code className="w-4 h-4 text-muted" />
               </div>
               <div className="p-6 overflow-x-auto">
                 <pre className="text-sm font-mono text-secondary">
@@ -254,7 +254,7 @@ export default function App() {
       <section className="container mt-20">
         <div className="text-center mb-12">
           <SectionHeader title="AI Learning Roadmap" icon={<Map />} />
-          <p className="text-text-muted max-w-xl mx-auto -mt-4">
+          <p className="text-muted max-w-xl mx-auto -mt-4">
             Your step-by-step guide to becoming an AI Expert, from foundations to production-ready MLOps.
           </p>
         </div>
@@ -272,7 +272,7 @@ export default function App() {
                 </div>
                 <div>
                   <h4 className="font-bold">{step.level}</h4>
-                  <p className="text-text-muted text-sm">{step.desc}</p>
+                  <p className="text-muted text-sm">{step.desc}</p>
                 </div>
               </div>
             ))}
@@ -281,7 +281,7 @@ export default function App() {
              <div className="absolute inset-0 bg-primary/20 blur-[100px] rounded-full" />
              <div className="relative z-10 glass p-6 rounded-2xl border border-primary/30 rotate-3">
                 <p className="font-mono text-xs text-primary mb-4">// Mermaid Roadmap Preview</p>
-                <div className="text-text-muted font-mono text-[10px] space-y-1">
+                <div className="text-muted font-mono text-[10px] space-y-1">
                   {resourcesData.roadmap.split('\n').slice(0, 10).map((line, i) => (
                     <div key={i}>{line}</div>
                   ))}
@@ -299,13 +299,13 @@ export default function App() {
           </div>
           <span className="font-bold">Ultimate AI Resources</span>
         </div>
-        <p className="text-text-muted text-sm">
+        <p className="text-muted text-sm">
           © 2026 Developed by Dhanush Nehru.
         </p>
         <div className="flex items-center gap-6">
-          <a href="#" className="text-text-muted hover:text-white transition-colors text-sm">Contribute</a>
-          <a href="#" className="text-text-muted hover:text-white transition-colors text-sm">About</a>
-          <a href="https://github.com/DhanushNehru/Ultimate-AI-Resources" className="text-text-muted hover:text-white transition-colors">
+          <a href="#" className="text-muted hover:text-white transition-colors text-sm">Contribute</a>
+          <a href="#" className="text-muted hover:text-white transition-colors text-sm">About</a>
+          <a href="https://github.com/DhanushNehru/Ultimate-AI-Resources" className="text-muted hover:text-white transition-colors">
             <Github className="w-5 h-5" />
           </a>
         </div>
