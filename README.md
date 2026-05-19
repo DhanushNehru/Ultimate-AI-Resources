@@ -181,6 +181,9 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 ### Sales & Outreach
 - [ZeroGTM](https://www.gtm-zero.com/) – Open-source AI SDR agent for automated outbound sales prospecting and outreach
 
+### Data & Analytics
+- [AI for Database](https://aifordatabase.com) - Connect to any database in plain English — no SQL required. Natural language queries, self-refreshing dashboards, and workflow automation triggered by database changes.
+
 ### Design & Content
 - [Midjourney](https://www.midjourney.com/)
 - [Runway ML](https://runwayml.com/)
