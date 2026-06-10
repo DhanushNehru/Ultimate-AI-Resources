@@ -184,6 +184,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 ### Design & Content
 - [Midjourney](https://www.midjourney.com/)
 - [Runway ML](https://runwayml.com/)
+- [igly.ai](https://igly.ai/) – Browser-based AI image editor for background removal, inpainting, upscaling, generative fill, and product-photo edits
 - [ElevenLabs](https://elevenlabs.io/)
 
 ---
