@@ -185,6 +185,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [Midjourney](https://www.midjourney.com/)
 - [Runway ML](https://runwayml.com/)
 - [ElevenLabs](https://elevenlabs.io/)
+- [CreatorSkills](https://creatorskills.co/) - Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ---
 
