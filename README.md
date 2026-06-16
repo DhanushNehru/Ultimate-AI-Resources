@@ -231,6 +231,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - **[Leonardo.AI](https://leonardo.ai/)** – Game asset generation
 - **[Ideogram](https://ideogram.ai/)** – Text rendering in images (finally!)
 - **[CapCut AI](https://www.capcut.com/)** – AI video editing for creators
+- **[Seedream AI Studio](https://seedream4.video/)** – Multi-model AI image generation (Seedream 5.0/4.5/4.0) by ByteDance, ranked #1 in AI Image Arena, free tier available
 
 ---
 
