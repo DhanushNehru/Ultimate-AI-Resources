@@ -44,6 +44,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
   - [Tabular & Time Series](#tabular--time-series)
 - [AI Tools & Apps](#ai-tools--apps)
   - [AI Coding Assistants](#ai-coding-assistants)
+  - [AI Testing & QA](#ai-testing--qa)
   - [No-Code AI](#no-code-ai)
   - [AI APIs](#ai-apis)
   - [Sales & Outreach](#sales--outreach)
@@ -167,6 +168,9 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [Tabnine](https://www.tabnine.com/) – AI assistant for code completion
 - [Windsurf](https://codeium.com/windsurf) – Agentic IDE by Codeium
 - [Claude Code](https://docs.claude.com/en/docs/claude-code) – Command-line AI coding agent
+
+### AI Testing & QA
+- [agent-qa](https://github.com/vostride/agent-qa) – Self-improving QA agent for natural-language web and mobile tests, with CLI and MCP integration
 
 ### No-Code AI
 - [Bubble + AI](https://bubble.io/ai)

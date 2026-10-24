@@ -433,6 +433,17 @@
           ]
         },
         {
+          "name": "AI Testing & QA",
+          "items": [
+            {
+              "name": "agent-qa",
+              "link": "https://github.com/vostride/agent-qa",
+              "description": "Self-improving QA agent for natural-language web and mobile tests, with CLI and MCP integration",
+              "difficulty": "Beginner"
+            }
+          ]
+        },
+        {
           "name": "No-Code AI",
           "items": [
             {
