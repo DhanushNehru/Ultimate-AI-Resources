@@ -497,6 +497,12 @@
               "link": "https://www.gtm-zero.com/",
               "description": "Open-source AI SDR agent for automated outbound sales prospecting and outreach",
               "difficulty": "Beginner"
+            },
+            {
+              "name": "Pulse",
+              "link": "https://pulsecorp.co",
+              "description": "AI-moderated customer interviews for market research",
+              "difficulty": "Beginner"
             }
           ]
         },
