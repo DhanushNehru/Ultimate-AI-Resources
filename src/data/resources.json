@@ -684,6 +684,12 @@
       "link": "https://www.capcut.com/",
       "description": "AI video editing for creators",
       "tag": "\ud83c\udfa8 Creative & Design"
+    },
+    {
+      "name": "APPLORE",
+      "link": "https://applore.app/ai-app-icon-generator",
+      "description": "AI app icon generator backed by a library of 18,000+ real app icons",
+      "tag": "\ud83c\udfa8 Creative & Design"
     }
   ],
   "roadmap": "graph LR\n    A[\ud83c\udf31 Beginner] --> B[\ud83d\udcca Python + Math]\n    B --> C[\ud83e\udd16 ML Basics]\n    C --> D[\ud83e\udde0 Deep Learning]\n    D --> E[\ud83d\udd2e LLMs & Transformers]\n    E --> F[\ud83d\ude80 Production & MLOps]\n    F --> G[\u2b50 AI Expert]",
