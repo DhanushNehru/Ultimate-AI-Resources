@@ -168,6 +168,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [Tabnine](https://www.tabnine.com/) – AI assistant for code completion
 - [Windsurf](https://codeium.com/windsurf) – Agentic IDE by Codeium
 - [Claude Code](https://docs.claude.com/en/docs/claude-code) – Command-line AI coding agent
+- [deed.page](https://deed.page) – Hosting for AI coding agents: publish generated HTML to a public HTTPS link with one HTTP PUT or a remote MCP server
 
 ### AI Testing & QA
 - [agent-qa](https://github.com/vostride/agent-qa) – Self-improving QA agent for natural-language web and mobile tests, with CLI and MCP integration

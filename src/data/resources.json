@@ -429,6 +429,12 @@
               "link": "https://docs.claude.com/en/docs/claude-code",
               "description": "Command-line AI coding agent",
               "difficulty": "Beginner"
+            },
+            {
+              "name": "deed.page",
+              "link": "https://deed.page",
+              "description": "Hosting for AI coding agents: publish generated HTML to a public HTTPS link with one HTTP PUT or a remote MCP server",
+              "difficulty": "Beginner"
             }
           ]
         },
