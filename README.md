@@ -235,6 +235,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - **[Leonardo.AI](https://leonardo.ai/)** – Game asset generation
 - **[Ideogram](https://ideogram.ai/)** – Text rendering in images (finally!)
 - **[CapCut AI](https://www.capcut.com/)** – AI video editing for creators
+- **[APPLORE](https://applore.app/ai-app-icon-generator)** – AI app icon generator backed by a library of 18,000+ real app icons
 
 ---
 
