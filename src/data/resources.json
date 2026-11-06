@@ -526,6 +526,12 @@
               "link": "https://elevenlabs.io/",
               "description": "",
               "difficulty": "Beginner"
+            },
+            {
+              "name": "RefVid",
+              "link": "https://refvid.com/",
+              "description": "AI videos that keep the same character or product consistent in every shot, from 1-10 reference photos",
+              "difficulty": "Beginner"
             }
           ]
         }
