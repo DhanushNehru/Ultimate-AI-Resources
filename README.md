@@ -185,6 +185,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 ### Sales & Outreach
 - [ZeroGTM](https://www.gtm-zero.com/) – Open-source AI SDR agent for automated outbound sales prospecting and outreach
 - [Pulse](https://pulsecorp.co) – AI-moderated customer interviews for market research.
+- [Datacircle](https://datacircle.dev) – Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 
 ### Design & Content
 - [Midjourney](https://www.midjourney.com/)
