@@ -190,6 +190,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [Midjourney](https://www.midjourney.com/)
 - [Runway ML](https://runwayml.com/)
 - [ElevenLabs](https://elevenlabs.io/)
+- [Imagera](https://imagera.ai/)
 
 ---
 

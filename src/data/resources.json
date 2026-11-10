@@ -526,6 +526,12 @@
               "link": "https://elevenlabs.io/",
               "description": "",
               "difficulty": "Beginner"
+            },
+            {
+              "name": "Imagera",
+              "link": "https://imagera.ai/",
+              "description": "Browser studio that runs many AI image and video models side by side, plus voice and music.",
+              "difficulty": "Beginner"
             }
           ]
         }
