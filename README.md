@@ -181,6 +181,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [OpenAI API](https://platform.openai.com/)
 - [Anthropic Claude](https://www.anthropic.com/api)
 - [Cohere](https://cohere.com/)
+- [GetYouTubeTranscript API](https://getyoutubetranscript.com/docs)
 
 ### Sales & Outreach
 - [ZeroGTM](https://www.gtm-zero.com/) – Open-source AI SDR agent for automated outbound sales prospecting and outreach
