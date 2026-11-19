@@ -190,6 +190,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [Midjourney](https://www.midjourney.com/)
 - [Runway ML](https://runwayml.com/)
 - [ElevenLabs](https://elevenlabs.io/)
+- [Wavegrain](https://wavegrain.com/) – Makes TikTok slideshows and Instagram carousels from your brand and photos, then schedules and posts them.
 
 ---
 
