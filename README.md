@@ -237,6 +237,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - **[Leonardo.AI](https://leonardo.ai/)** – Game asset generation
 - **[Ideogram](https://ideogram.ai/)** – Text rendering in images (finally!)
 - **[CapCut AI](https://www.capcut.com/)** – AI video editing for creators
+- **[Twistavo](https://twistavo.com/)** – AI video studio for character swap and AI influencer videos, with several image and video models on one credit balance
 
 ---
 
