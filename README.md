@@ -191,6 +191,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [Runway ML](https://runwayml.com/)
 - [ElevenLabs](https://elevenlabs.io/)
 - [Wavegrain](https://wavegrain.com/) – Makes TikTok slideshows and Instagram carousels from your brand and photos, then schedules and posts them.
+- [Kite](https://kite.new/) – Design canvas your team and AI agents share: Claude, ChatGPT, Cursor or Codex draw editable frames and components via a hosted MCP server.
 
 ---
 
