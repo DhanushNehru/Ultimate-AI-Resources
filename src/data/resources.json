@@ -486,6 +486,12 @@
               "link": "https://cohere.com/",
               "description": "",
               "difficulty": "Beginner"
+            },
+            {
+              "name": "GetYouTubeTranscript API",
+              "link": "https://getyoutubetranscript.com/docs",
+              "description": "REST API that returns YouTube video transcripts as text or timestamped JSON for LLM, RAG and summarization pipelines",
+              "difficulty": "Beginner"
             }
           ]
         },
