@@ -231,6 +231,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - **[Phind](https://www.phind.com/)** – AI search engine for developers
 - **[Continue.dev](https://continue.dev/)** – Open-source Copilot alternative
 - **[Cody by Sourcegraph](https://sourcegraph.com/cody)** – AI coding assistant with codebase context
+- **[Scalekit](https://www.scalekit.com/)** – AI agent integrations platform and MCP gateway: agents call 55,000+ tools across 1,100+ apps on behalf of each user
 
 ### 🎨 Creative & Design
 
