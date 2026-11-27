@@ -594,6 +594,12 @@
               "link": "https://github.com/chiphuyen/machine-learning-systems-design",
               "description": "",
               "difficulty": "Beginner"
+            },
+            {
+              "name": "Aethel",
+              "link": "https://aethel.pro/practice-guides/data-ml",
+              "description": "Questions AI interviews ask data scientists and ML engineers, with weak and strong example answers, and free practice with no account",
+              "difficulty": "Beginner"
             }
           ]
         }

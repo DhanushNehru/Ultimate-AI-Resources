@@ -465,6 +465,7 @@ graph LR
 - [ML Interview Guide](https://github.com/khangich/machine-learning-interview)
 - [LeetCode ML Problems](https://leetcode.com/problemset/machine-learning/)
 - [System Design for ML](https://github.com/chiphuyen/machine-learning-systems-design)
+- [Aethel](https://aethel.pro/practice-guides/data-ml) – Questions AI interviews ask data scientists and ML engineers, with weak and strong example answers, and free practice with no account.
 
 ---
 
