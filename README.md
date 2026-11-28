@@ -192,6 +192,7 @@ From **LLMs** to **computer vision**, **MLOps** to **AI ethics**, this repo is y
 - [ElevenLabs](https://elevenlabs.io/)
 - [Wavegrain](https://wavegrain.com/) – Makes TikTok slideshows and Instagram carousels from your brand and photos, then schedules and posts them.
 - [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio/) – Free native design app built in Rust that opens and saves .fig files and ships a local MCP server, so a coding agent can inspect and edit the open file; source-available (PolyForm Shield).
+- [Tweenery](https://tweenery.com/) – AI agent that turns an idea or a post you like into a ready-to-post Instagram carousel or TikTok slideshow; free plan available.
 
 ---
 
